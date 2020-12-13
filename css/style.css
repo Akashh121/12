@@ -27,7 +27,7 @@ body{
     padding-bottom: 50px;
 }
 
-#home-section .fa{
+#home-section .fas{
     background: #ffffff;
     color: black;
     padding: 4px;
@@ -43,7 +43,7 @@ body{
     padding-top: 150px;
     padding-bottom: 50px; }
 
-#explore-main-section .fa {
+#explore-main-section .fas {
   font-size: 30px;
   background: black;
   color: #fff;
